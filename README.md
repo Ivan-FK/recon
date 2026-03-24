@@ -30,25 +30,27 @@ Python 3.8+ recommended
 ## Example input:
 
 ### Basic scan:
-
+```text
 python recon.py scanme.nmap.org
-
+```
 ### Scan with additional options:
-
+```text
 python recon.py scanme.nmap.org --mode well-known --workers 200 --timeout 0.3 --output scan_report.txt
-
+```
 ### Disable banner grabbing:
-
+```text
 python recon.py scanme.nmap.org --no-banners
-
+```
 ### Disable header checks:
 
+```text
 python recon.py scanme.nmap.org --no-headers
-
+```
 ### Save results to a report:
 
+```text
 python recon.py scanme.nmap.org --output report.txt
-
+```
 ## Example output:
 
 ```text
