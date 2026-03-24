@@ -1,7 +1,7 @@
 # recon
 # Python network reconnaissance tool
 
-This a simple Python reconnaisance automation tool created as a learning project while studying basic cybersecurity concepts and Python scripting. It is designed to perform a threaded scan for open ports in a selected range, passive banner grabbing on open ports and a check for common security headers.
+This a simple Python reconnaissance automation tool created as a learning project while studying basic cybersecurity concepts and Python scripting. It is designed to perform a threaded scan for open ports in a selected range, passive banner grabbing on open ports and a check for common security headers.
 
 # Disclaimer:
 
