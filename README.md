@@ -21,8 +21,9 @@ This project was created to practice:
 
 1. Clone the repository
 2. Install dependencies:
+```text
 pip install -r requirements.txt
-
+```
 Python 3.8+ recommended
 
 # Usage:
