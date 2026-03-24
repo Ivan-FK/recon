@@ -20,7 +20,7 @@ This project was created to practice:
 # Installation:
 
 1. Clone the repository
-2. Install depencencies:
+2. Install dependencies:
 pip install -r requirements.txt
 
 Python 3.8+ recommended
@@ -51,6 +51,7 @@ python recon.py scanme.nmap.org --output report.txt
 
 ## Example output:
 
+```text
 Target: scanme.nmap.org
 Scan mode: well-known
 IP address: 45.33.32.156
@@ -87,3 +88,4 @@ Security headers check:
 [-] X-Frame-Options: Missing
 [-] Strict-Transport-Security: Missing
 [-] X-Content-Type-Options: Missing
+```
